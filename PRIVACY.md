@@ -1,6 +1,6 @@
 # PinWall Privacy Policy
 
-**Last updated: 5 October 2026**  
+**Last updated: 6 October 2026**  
 
 PinWall lets you arrange your own text and images into an iPhone wallpaper. This policy explains how the app handles that information.
 
@@ -42,7 +42,7 @@ Deleting the app removes its local app data through iOS. Copies in backups, Phot
 
 ## 5. Analytics, tracking, and Apple services
 
-PinWall includes no advertising, tracking, or third-party analytics SDK. The current version does not process in-app purchases or collect payment details.
+PinWall includes no advertising, tracking, or third-party analytics SDK. Optional PinWall Pro purchases are processed by Apple through the App Store. PinWall uses StoreKit on your device to verify purchases, restore access, and check whether a subscription is active. We do not collect payment card details or send your purchase history to a PinWall server. Apple manages billing, subscription renewals, cancellations, and refunds.
 
 Apple may process information when you use the App Store, Photos, iCloud, Shortcuts, or other Apple services. Depending on your device's analytics settings, Apple may also share app diagnostics or aggregated usage information with developers. These activities are governed by [Apple's Privacy Policy](https://www.apple.com/legal/privacy/) and [App Analytics & Privacy](https://www.apple.com/legal/privacy/data/en/app-analytics/).
 
